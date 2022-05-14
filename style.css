@@ -1,5 +1,6 @@
 @import url('https://fonts.googleapis.com/css2?family=Poppins:wght@200&family=Source+Sans+Pro:wght@200&display=swap');
 @import url('https://fonts.googleapis.com/css2?family=Nanum+Gothic&family=Poppins:wght@200&family=Source+Sans+Pro:wght@200&display=swap');
+
 body {
     background-color: antiquewhite;
 }
@@ -22,7 +23,7 @@ nav ul {
     color: white;
 }
 
-nav ul li{
+nav ul li {
     padding: 0 12px;
 }
 
@@ -48,13 +49,14 @@ nav ul li{
     margin: 23px auto;
     border-radius: 12px;
     padding: 34px;
-    background-image: url('bg.jpg' );
+    background-image: url('bg.jpg');
     background-size: 100%;
-   
+
 }
+
 #container img {
     width: 100%;
- }
+}
 
 
 .bottom {
@@ -62,7 +64,7 @@ nav ul li{
     height: 95px;
     background-color: black;
     color: white;
-    bottom:0;
+    bottom: 0;
     display: flex;
     justify-content: center;
     align-items: center;
@@ -102,9 +104,9 @@ nav ul li{
 
 .songItem img {
 
-width: 43px;
-margin: 0 23px ;
-border-radius: 34px;
+    width: 43px;
+    margin: 0 23px;
+    border-radius: 34px;
 
 }
 
